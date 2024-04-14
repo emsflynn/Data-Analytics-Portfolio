@@ -14,7 +14,13 @@ The following is in the assingment:
 This is also an assignment I did when I first started university, it was a group project.
 It was on Descriptive Statistics.It included analysis of:
  - bivariate descriptive techniques and statistics. 
- - univariate descriptive techniques and statistics. 
+ - univariate descriptive techniques and statistics.
+
+
+## Pokemon Dataset
+I analysed a pokemon dataset. 
+I calculated the Z-scores of the different pokemon's heights as I thought this was the easiest thing to analyse and it would be of interest to me.
+
 
 
 
